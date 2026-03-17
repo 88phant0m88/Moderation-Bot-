@@ -1,7 +1,7 @@
 import os
 from aiogram import Bot, Dispatcher, executor, types
 
-# Токен из переменных окружения
+# Токен из переменных окружения тест
 API_TOKEN = os.getenv('BOT_TOKEN')
 
 # Инициализация бота
